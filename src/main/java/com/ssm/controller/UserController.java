@@ -1,11 +1,9 @@
 package com.ssm.controller;
 import javax.servlet.http.HttpServletRequest;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import javax.annotation.Resource;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
